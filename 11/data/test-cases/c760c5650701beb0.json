@@ -1,0 +1,80 @@
+{
+  "uid" : "c760c5650701beb0",
+  "name" : "testTree()",
+  "fullName" : "org.example.TestClass.testTree",
+  "historyId" : "93688cdcdccf94abcba106104237925b",
+  "time" : {
+    "start" : 1638867387131,
+    "stop" : 1638867387132,
+    "duration" : 1
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:org.example.TestClass]/[method:testTree()]"
+  }, {
+    "name" : "host",
+    "value" : "fv-az231-686"
+  }, {
+    "name" : "thread",
+    "value" : "2861@fv-az231-686.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "org.example.TestClass"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.TestClass"
+  }, {
+    "name" : "testMethod",
+    "value" : "testTree"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.TestClass"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a3fabd0388d7fa89",
+        "reportUrl" : "https://anastasia-kitlinska.github.io/allure-action-test/10//#testresult/a3fabd0388d7fa89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638866753843,
+          "stop" : 1638866753845,
+          "duration" : 2
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c760c5650701beb0.json",
+  "parameterValues" : [ ]
+}

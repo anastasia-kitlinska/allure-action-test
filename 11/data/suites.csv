@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 07 08:56:26 GMT 2021","Tue Dec 07 08:56:26 GMT 2021","263","","org.example.TestClass","","org.example.TestClass","testOne","testOne()",""
+"passed","Tue Dec 07 08:56:27 GMT 2021","Tue Dec 07 08:56:27 GMT 2021","1","","org.example.TestClass","","org.example.TestClass","testTree","testTree()",""
+"failed","Tue Dec 07 08:56:27 GMT 2021","Tue Dec 07 08:56:27 GMT 2021","19","","org.example.TestClass","","org.example.TestClass","testTwo","testTwo()",""
